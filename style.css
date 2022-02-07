@@ -1,0 +1,16 @@
+form {
+    background-color: brown;
+    color: white;
+    width: 500px;
+    height: 300px;
+    margin: 100px auto 100px;
+    padding: 45px;
+}
+
+.error{
+    color: red;
+}
+
+.no-error{
+    color: rgb(0, 255, 0);
+}
